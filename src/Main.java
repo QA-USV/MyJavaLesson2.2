@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         int currentSum = 120;
         int sumToAdd = 1590;
         int sumToAddToGetBonus = 1000;
